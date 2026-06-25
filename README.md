@@ -1,6 +1,6 @@
-# BankaHesapYonetimSistemi - C++ Bankacılık Simülasyonu 🏦
+# Banka Hesap Yönetim Sistemi - C++ Bankacılık Simülasyonu 🏦
 
-BankaHesapYonetimSistemi; vadesiz ve vadeli hesap yönetiminden finansal işlemlere, dönem sonu faiz hesaplamalarından hesap geçmişi takibine kadar bankacılık süreçlerini modelleyen C++ tabanlı bir CLI uygulamasıdır. Proje, Nesne Yönelimli Programlama (OOP) prensiplerini kullanarak güvenli, modüler ve genişletilebilir bir mimari sunmayı amaçlar.
+Banka Hesap Yönetim Sistemi; vadesiz ve vadeli hesap yönetiminden finansal işlemlere, dönem sonu faiz hesaplamalarından hesap geçmişi takibine kadar bankacılık süreçlerini modelleyen C++ tabanlı bir CLI uygulamasıdır. Proje, Nesne Yönelimli Programlama (OOP) prensiplerini kullanarak güvenli, modüler ve genişletilebilir bir mimari sunmayı amaçlar.
 
 ## 🚀 Öne Çıkan Özellikler
 
